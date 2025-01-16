@@ -1,2 +1,2 @@
-# GUI_Calculator
+# GUI Calculator
  GUI Calculator
